@@ -1,5 +1,5 @@
-// ===== Zone/HTML5Player & <video> 10초 스킵 패치 v4 =====
-(function applySkipPatch(sec = 10) {
+// ===== Zone/HTML5Player & <video> 스킵 패치 v5 =====
+(function applySkipPatch(sec = 300) {
   /* 0) 예전 패치 clean‑up (중복 방지) */
   if (window.__zoneSkipPatch && typeof window.__zoneSkipPatch.cleanup === 'function') {
     window.__zoneSkipPatch.cleanup();
