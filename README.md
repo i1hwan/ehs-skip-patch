@@ -5,7 +5,7 @@
 
 ## Why?
 GNU’s E‑Learning site forces you to watch every second of safety‑training
-videos. This patch lets you jump in _n_‑second steps (default **10 s**) so you
+videos. This patch lets you jump in _n_‑second steps (default **300 s**) so you
 can revisit only the parts you need.
 
 > ⚠️ **Disclaimer**  
