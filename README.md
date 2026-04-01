@@ -15,7 +15,7 @@ you need.
 
 ---
 
-## ehs.gnu.ac.kr — `ehs-skip-patch.js`
+## `ehs-skip-patch.js`
 
 Laboratory safety training. Zone HTML5 Player.
 
@@ -38,7 +38,7 @@ fetch('https://raw.githubusercontent.com/i1hwan/ehs-skip-patch/main/ehs-skip-pat
 
 ---
 
-## erum-lms.gnu.ac.kr — `erum-skip-patch.js`
+## `erum-skip-patch.js`
 
 Video.js v7 + HLS.
 
